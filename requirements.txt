@@ -6,6 +6,8 @@ future==1.0.0
 gevent==25.5.1
 gevent-websocket==0.10.1
 greenlet==3.2.3
+gunicorn==23.0.0
+packaging==25.0
 pycparser==2.22
 pyparsing==3.2.3
 typing_extensions==4.14.0
